@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about_me.md", title: "About me"}
   - {file: "README.md", title: "About"}
   - {url: "/Gijung_lee_CV.pdf", title: "CV"}
+  - {file: "index.html", title: "Portfolio"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gijung0921@gmail.com"}
