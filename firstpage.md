@@ -1,6 +1,6 @@
 ---
 title: " "
-layout: page
+layout: default
 ---
 
 I am
