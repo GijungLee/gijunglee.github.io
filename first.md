@@ -1,6 +1,6 @@
 ---
-title: "A:"
-layout: page
+layout: default
+title: "Home"
 ---
 
 I am
