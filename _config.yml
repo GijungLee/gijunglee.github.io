@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: " "}
   - {file: "index.html", title: "Home"}
   - {file: "about_me.md", title: "About me", icon: "address-card"}
-  - {file: "about_me.md", title: About me, icon: Address Card}
+  - {file: "about_me.md", title: "About me", icon: Address Card}
   - {file: "README.md", title: "About"}
   - {url: "/Gijung_lee_CV.pdf", title: "CV"}
   - {file: "index.html", title: "Portfolio"}
