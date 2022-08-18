@@ -1,14 +1,11 @@
 # Contact
 
-E-mail: gijung0921@gmail.com 
+<img src="/_data/email.svg" width="20" height="20"> E-mail: gijung0921@gmail.com 
 
-Phone: 954-371-7064 <img src="/_data/phone.svg" width="25" height="25">
+<img src="/_data/phone.svg" width="20" height="20"> Phone: 954-371-7064
 
 linkedIn: [Check](https://www.linkedin.com/in/gijung-lee-641027222/ =50x50)
 
-Github: 
-![img1](/_data/291716_github_logo_social network_social_icon.png) 
+<img src="/_data/github.svg" width="20" height="20"> Github: [Check](https://github.com/GijungLee/)
 
-[Check](https://github.com/GijungLee/)
-
-<img src="/_data/instagram.svg" width="15" height="15"> Instagram: [check](https://www.instagram.com/gijung0921/)
+<img src="/_data/instagram.svg" width="20" height="20"> Instagram: [check](https://www.instagram.com/gijung0921/)
