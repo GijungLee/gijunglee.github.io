@@ -11,4 +11,4 @@ Github:
 
 [Check](https://github.com/GijungLee/)
 
-<img src="/_data/instagram.svg" width="15" height="15" Instagram: [check](https://www.instagram.com/gijung0921/)
+<img src="/_data/instagram.svg" width="15" height="15"> Instagram: [check](https://www.instagram.com/gijung0921/)
