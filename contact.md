@@ -1,4 +1,9 @@
-# Contact
+---
+title:  "Contact"
+mathjax: false
+layout: post
+categories: media
+---
 
 <img src="/_data/email.svg" width="20" height="20"> E-mail: gijung0921@gmail.com 
 
