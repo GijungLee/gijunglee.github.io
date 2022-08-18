@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "Home"
+title:  "Home"
+mathjax: true
+layout: post
+categories: media
 ---
 
 
