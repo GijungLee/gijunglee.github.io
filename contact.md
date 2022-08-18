@@ -2,7 +2,7 @@
 
 E-mail: gijung0921@gmail.com 
 
-Phone: 954-371-7064
+Phone: 954-371-7064 ![phone](/_data/phone.svg)
 
 linkedIn: [Check](https://www.linkedin.com/in/gijung-lee-641027222/)
 
