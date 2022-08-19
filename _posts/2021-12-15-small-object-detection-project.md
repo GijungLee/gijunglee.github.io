@@ -6,8 +6,6 @@ categories: media
 ---
 
 ![detection](https://github.com/GijungLee/Small_object_detection_project/blob/main/data/Picture1.png?raw=true)
-
-{% include embed.html url="https://github.com/GijungLee/Small_object_detection_project/blob/main/Project.pdf" %}
 <embed src="https://github.com/GijungLee/Small_object_detection_project/blob/main/Project.pdf" type="application/pdf"/>
 
 ## MathJax
