@@ -6,6 +6,7 @@ categories: media
 ---
 
 ![detection](https://github.com/GijungLee/Small_object_detection_project/blob/main/data/Picture1.png?raw=true)
+You can [download paper](/assets/small_Project.pdf) here.
 
 ## MathJax
 
