@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![detection](https://github.com/GijungLee/Video_summarizaation_project/blob/main/data/Picture2.png?raw=true)
+![detection](https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png)
 
 
 ## Summary
