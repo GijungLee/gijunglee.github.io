@@ -6,7 +6,7 @@ categories: media
 ---
 
 
-# Hi, I am *Gijung Lee*!
+# Hi, I am Gijung Lee!
 ## I like using Machine learning and Deep learning for a better world.
 ## My research focuses on Computer vision in ML/DL.
 
