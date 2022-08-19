@@ -6,6 +6,7 @@ categories: media
 ---
 
 
+# Hi I am Gijung Lee!
 
 ![img](/assets/IMG_1818.JPG)
 
