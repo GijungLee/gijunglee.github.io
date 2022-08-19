@@ -1,21 +1,19 @@
 ---
-title:  "Video summarization project"
+title:  "Small object detection project"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![detection](https://github.com/GijungLee/Small_object_detection_project/blob/main/data/Picture1.png?raw=true)
-
-
-You can check the detail of the project or download paper [here]({{ site.url }}/assets/small_Project.pdf).
-
-You can check code [here](https://github.com/GijungLee/Small_object_detection_project).
+![detection](https://github.com/GijungLee/Video_summarizaation_project/blob/main/data/Picture2.png?raw=true)
 
 
 ## Summary
 
-The detection of the small object has been challenging because of the limitation of the property of the convolutional neural network. For this project, I tried two methods to improve the performance of small objects detection. The first method is upscaling or improving the details of the image by using the concept of super-resolution. The second method is the process of performing prediction over small slices of the original image and then merging predictions from all sliced images on the original image. To detect small objects, I used the DOTA dataset which contains aerial images. For the super-resolution method, I used the Efficient Sub-pixel Convolutional Neural Network (ESPCN). With these methods, I could get 27.5% mAP, 46.4% mAP_50, 28.0% mAP_75 from 15.7% mAP, 26.3% mAP_50, 15.6% mAP_75 without any methods.
+In a video, there are so many frames that are not important to see or check contents. These unimportant frames make us waste the time. We can solve this problem by detecting important objects in a video and making video time shorter automatically. Detecting objects is performed well in computer vision. However, this good performance is for not only important objects but also unimportant objects in the video. Detecting only important objects is a challenging problem in computer vision. If we can detect only important objects in a video, there will be many applications we can apply in various fields. For example, in underwater circumstances, we can check what is happening by recording a video. However, it is difficult to sort out which parts are important and unimportant in a video. Moreover, it is waste of time to check every frame in a long video to sort the important parts. To detect important parts in a frame, the autoencoder is used for this project. Using this model, we can extract the important parts in a frame and make a video time shorter which includes only import events in a video. We can apply this project in various fields. With an unsupervised approach, we have the advantage that there is no requirement for human annotations to learn the important event in a video. With this method, the evaluation shows that the process for video summarization has two summarized videos that are an important event and an unimportant event.
+
+- You can check the detail of the project or download the paper [here]({{ site.url }}/assets/small_Project.pdf).
+- You can check the code [here](https://github.com/GijungLee/Small_object_detection_project).
 
 ## Results
 You can check the results with below links 
