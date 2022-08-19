@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: " "
 ---
 
 # Hi, I am Gijung Lee!
