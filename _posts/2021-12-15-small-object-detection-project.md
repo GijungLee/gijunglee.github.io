@@ -9,6 +9,7 @@ categories: media
 
 
 You can check the detail of the project or download paper [here]({{ site.url }}/assets/small_Project.pdf).
+
 You can check code [here](https://github.com/GijungLee/Small_object_detection_project).
 
 
