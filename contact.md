@@ -5,12 +5,12 @@ layout: post
 categories: media
 ---
 
-<img src="/_data/email.svg" width="20" height="20"> E-mail: gijung0921@gmail.com 
+<img src="/assets/email.svg" width="10" height="10"> E-mail: gijung0921@gmail.com 
 
-<img src="/_data/phone.svg" width="20" height="20"> Phone: 954-371-7064
+<img src="/assets/phone.svg" width="10" height="10"> Phone: 954-371-7064
 
-<img src="/_data/linkedin.svg" width="20" height="20"> linkedIn: [Check](https://www.linkedin.com/in/gijung-lee-641027222/)
+<img src="/assets/linkedin.svg" width="10" height="10"> linkedIn: [Check](https://www.linkedin.com/in/gijung-lee-641027222/)
 
-<img src="/_data/github.svg" width="20" height="20"> Github: [Check](https://github.com/GijungLee/)
+<img src="/assets/github.svg" width="10" height="10"> Github: [Check](https://github.com/GijungLee/)
 
-<img src="/_data/instagram.svg" width="20" height="20"> Instagram: [check](https://www.instagram.com/gijung0921/)
+<img src="/assets/instagram.svg" width="10" height="10"> Instagram: [check](https://www.instagram.com/gijung0921/)

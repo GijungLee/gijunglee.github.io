@@ -7,5 +7,6 @@ categories: media
 
 
 
-![img1](https://github.com/GijungLee/gijunglee.github.io/blob/master/_data/IMG_1747%202%20copy.jpg)
+
+<img src="/assets/IMG_1747%202%20copy.jpg" width="500" height="500">
 
