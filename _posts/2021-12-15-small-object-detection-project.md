@@ -7,7 +7,7 @@ categories: media
 
 ![detection](https://github.com/GijungLee/Small_object_detection_project/blob/main/data/Picture1.png?raw=true)
 
-
+{% include embed.html url="" %}
 ## MathJax
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
