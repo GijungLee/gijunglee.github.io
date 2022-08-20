@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![kmnist](/assets/
+![kmnist](/assets/kmnist_examples.png)
 
 
 ## Summary
