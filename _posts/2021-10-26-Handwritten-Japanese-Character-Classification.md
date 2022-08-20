@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture1.png" width="1000" height="350">
+![kmnist](/assets/
 
 
 ## Summary
@@ -15,10 +15,11 @@ This work is presented as a project for EEL6814 – Deep Learning Course. Over t
 - You can check the code [here](https://github.com/GijungLee/Kmnist_Project).
 
 ## Results
+
 **CNN Train and test results**
 
-<img src="/data/Picture1.png" width="1000" height="700">
+<img src="https://github.com/GijungLee/Kmnist_Project/raw/main/data/Picture1.png" width="1000" height="700">
 
 **Result (includes Cnn, Different models, Different Optimizers)**
 
-<img src="/data/Picture2.png" width="1000" height="500">
+<img src="https://github.com/GijungLee/Kmnist_Project/raw/main/data/Picture2.png" width="1000" height="500">

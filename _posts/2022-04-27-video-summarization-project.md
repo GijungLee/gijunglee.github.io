@@ -22,6 +22,7 @@ In a video, there are so many frames that are not important to see or check cont
 ### Table
 
 **Results of video summarization** 
+
 | Methods | Accuracy |
 | -------- | -------- |
 | Pseudo labels | 65.33% |
