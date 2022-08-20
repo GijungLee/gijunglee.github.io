@@ -22,12 +22,9 @@ You can check the results with below links
 ## Presentations
 - Presentation
 {% include embed.html url="https://www.youtube.com/embed/aOLFkBbP3GQ" %}
-{% include embed.html url="https://www.youtu.be/embed/aOLFkBbP3GQ" %}
-{% include embed.html url="https://youtu.be/embed/aOLFkBbP3GQ" %}
 
 - Code review
 {% include embed.html url="https://www.youtube.com/embed/8p8K7BRCqmI" %}
-
 
 ## Reference
 1. [How to detect small objects in (very) large images](https://blog.ml6.eu/how-to-detect-small-objects-in-very-large-images-70234bab0f98)
