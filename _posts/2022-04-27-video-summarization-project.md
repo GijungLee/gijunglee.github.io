@@ -16,9 +16,17 @@ In a video, there are so many frames that are not important to see or check cont
 - You can check the code [here](https://github.com/GijungLee/Video_summarization_project).
 
 ## Results
-![Confusion Matrix]()
-You can check the results with below links 
-- Link for prediction results: [With upscaled images](https://drive.google.com/drive/folders/1tioKKtIJDxPaBKCh6-aTkmWPvy-WY_Qt?usp=sharing), [Without upscaled images](https://drive.google.com/drive/folders/1yH1gUZkCi6xn0GtAt0WTpd0Oj-PoQ3fJ?usp=sharing)
+
+![result](/data/Picture3.png)
+
+| Methods | Accuracy |
+| -------- | -------- |
+| PL | 65.33% |
+| PL + RL | 87.44% |
+
+Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
+
+![Confusion Matrix](https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture4.png)
 
 ## Presentations
 - Presentation
