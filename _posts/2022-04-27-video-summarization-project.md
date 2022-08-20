@@ -6,6 +6,7 @@ categories: media
 ---
 
 ![detection](https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png)
+<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png" width="1000" height="350">
 
 
 ## Summary
@@ -17,7 +18,8 @@ In a video, there are so many frames that are not important to see or check cont
 
 ## Results
 
-![result](https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture3.png)
+![result](https://github.com/GijungLee/Video_summarization_project/raw/main/data/download.png)
+<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/download.png" width="1000" height="350">
 
 | Methods | Accuracy |
 | -------- | -------- |
@@ -27,6 +29,7 @@ In a video, there are so many frames that are not important to see or check cont
 Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
 
 ![Confusion Matrix](https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture4.png)
+<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture4.png" width="300" height="250">
 
 ## Presentations
 - Presentation
