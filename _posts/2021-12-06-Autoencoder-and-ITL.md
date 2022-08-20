@@ -26,16 +26,6 @@ We enforce the model to maximize the entropy of the latent code distribution whi
 
 <img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="1000" height="350">
 
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture3.png" width="400" height="400">
-
-- Swiss Roll
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture1.png" width="700" height="250">
-
-- Gaussian
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="650" height="200">
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture3.png" width="300" height="300">
+<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture3.png" width="350" height="350">
 
 Samples from a linear walk over the swiss-roll. Right to left is going along the linear direction of the manifold. Top to bottom is going along the rotating direction of the manifold.
