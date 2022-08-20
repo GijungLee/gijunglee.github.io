@@ -16,7 +16,7 @@ The detection of the small object has been challenging because of the limitation
 - You can check the code [here](https://github.com/GijungLee/Small_object_detection_project).
 
 ## Results
-You can check the results with below links 
+You can check the results with the below links 
 - Link for prediction results: [With upscaled images](https://drive.google.com/drive/folders/1tioKKtIJDxPaBKCh6-aTkmWPvy-WY_Qt?usp=sharing), [Without upscaled images](https://drive.google.com/drive/folders/1yH1gUZkCi6xn0GtAt0WTpd0Oj-PoQ3fJ?usp=sharing)
 
 ## Presentations
@@ -28,4 +28,4 @@ You can check the results with below links
 
 ## Reference
 1. [How to detect small objects in (very) large images](https://blog.ml6.eu/how-to-detect-small-objects-in-very-large-images-70234bab0f98)
-2. [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi/blob/main/demo/slicing.ipynb)
+2. [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi/)
