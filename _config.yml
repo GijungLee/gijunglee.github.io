@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #   - {file: "first.md", title: "Home"}
   - {file: "index.md", title: "Home"}
   - {file: "about_me.md", title: "About me"}
-  - {file: "README.md", title: "About"}
+#   - {file: "README.md", title: "About"}
   - {url: "/Gijung_lee_CV.pdf", title: "CV"}
   - {file: "portfolio.html", title: "Portfolio"}
   - {file: "contact.md", title: "Contact"}
@@ -29,7 +29,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/gijung-lee-641027222/"}
   - {title: Github, icon: github, url: "https://github.com/GijungLee/"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/gijung0921/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
