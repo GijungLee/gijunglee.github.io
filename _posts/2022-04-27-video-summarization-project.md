@@ -17,7 +17,7 @@ In a video, there are so many frames that are not important to see or check cont
 
 ## Results
 
-![result](/data/Picture3.png)
+![result](https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture3.png)
 
 | Methods | Accuracy |
 | -------- | -------- |
