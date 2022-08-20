@@ -19,12 +19,15 @@ In a video, there are so many frames that are not important to see or check cont
 
 <img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/download.png" width="1000" height="350">
 
+### Table
+
+**Results of video summarization** 
 | Methods | Accuracy |
 | -------- | -------- |
-| PL | 65.33% |
-| PL + RL | 87.44% |
+| Pseudo labels | 65.33% |
+| Pseudo labels + Reconstruction loss | 87.44% |
 
-Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
+### Confusion Matrix
 
 <img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture4.png" width="300" height="250">
 

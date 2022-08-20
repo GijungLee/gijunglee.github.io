@@ -10,32 +10,15 @@ categories: media
 
 ## Summary
 
-We investigate the use of Autoencoders for reducing the dimensionality of KMNIST digits data set to improve classification performance. We compare the classification performance to the use of Convolutional Neural Networks (CNNs). We further introduce an information theory regularizer on the autoencoder. We force the autoencoder to learn latents on a 3d swiss roll prior and decode the images. Lastly, we introduce a Gaussian and a Gaussian Mixture Model Prior to investigate its effect on unsupervised clustering of the latent space. This work is presented as the final project for EEL6814 – Deep Learning Course.
-
-- You can check the detail of the project or download the paper [here]({{ site.url }}/assets/KMNIST - project 1.pdf).
+This work is presented as a project for EEL6814 – Deep Learning Course. Over the last few decades, deep neural networks have proved very powerful in handling big data. In pattern recognition, particularly image problems, deep learning’s performance surpasses classical machine learning in accuracy. The Multilayer Perceptron (MLP) and the Convolutional Neural Network (CNN) are two of the most popular deep learning architectures for classification. We present the two networks’ performance to classify the Japanese KMNIST data set. In this report, we test the performance of different MLP and CNN architectures on the data set. We further tune hyperparameters and investigate how different parameters affect the classification efficiency.
+- You can check the detail of the project or download the paper [here]({{ site.url }}/assets/KMNIST_project_1.pdf).
 - You can check the code [here](https://github.com/GijungLee/Kmnist_Project).
 
 ## Results
-We enforce the model to maximize the entropy of the latent code distribution which helps in spreading out the latent while at the same time minimizing the cross-entropy between the latent code and the prior distributions which makes latent codes fit the prior distribution better.
+**CNN Train and test results**
 
-- Swiss Roll
+<img src="/data/Picture1.png" width="1000" height="700">
 
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture1.png" width="1000" height="350">
+**Result (includes Cnn, Different models, Different Optimizers)**
 
-- Gaussian
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="1000" height="350">
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture3.png" width="400" height="400">
-
-- Swiss Roll
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture1.png" width="700" height="250">
-
-- Gaussian
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="650" height="200">
-
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture3.png" width="300" height="300">
-
-Samples from a linear walk over the swiss-roll. Right to left is going along the linear direction of the manifold. Top to bottom is going along the rotating direction of the manifold.
+<img src="/data/Picture2.png" width="1000" height="500">
