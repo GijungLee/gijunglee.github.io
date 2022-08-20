@@ -13,4 +13,4 @@ categories: media
 
 <img src="/assets/github.svg" width="20" height="20">   Github: [Check](https://github.com/GijungLee/)
 
-<img src="/assets/instagram.svg" width="20" height="20">    Instagram: [check](https://www.instagram.com/gijung0921/)
+<img src="/assets/instagram.svg" width="20" height="20">    Instagram: [Check](https://www.instagram.com/gijung0921/)
