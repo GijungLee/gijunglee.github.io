@@ -5,8 +5,9 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/GijungLee/Video_summarization_project/blob/main/data/Unknown-14.png" width="1000" height="350">
+<img src="https://github.com/GijungLee/gijunglee.github.io/blob/master/assets/Unknown-14.png" width="1000" height="350">
 
+https://github.com/GijungLee/Video_summarization_project/blob/main/data/Unknown-14.png
 
 ## Summary
 
