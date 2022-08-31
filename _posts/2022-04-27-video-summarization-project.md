@@ -7,8 +7,6 @@ categories: media
 
 <img src="https://github.com/GijungLee/Video_summarization_project/blob/main/data/Unknown-14.png" width="1000" height="350">
 
-<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png" width="1000" height="350">
-
 
 ## Summary
 
@@ -16,6 +14,10 @@ In a video, there are so many frames that are not important to see or check cont
 
 - You can check the detail of the project or download the paper [here]({{ site.url }}/assets/video_report.pdf).
 - You can check the code [here](https://github.com/GijungLee/Video_summarization_project).
+
+## Algorithms
+
+<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png" width="1000" height="250">
 
 ## Results
 
