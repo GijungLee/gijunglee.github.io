@@ -17,7 +17,7 @@ In a video, there are so many frames that are not important to see or check cont
 
 ## Algorithms
 
-<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png" width="1000" height="250">
+<img src="https://github.com/GijungLee/Video_summarization_project/raw/main/data/Picture2.png" width="1000" height="350">
 
 ## Results
 
