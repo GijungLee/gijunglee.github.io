@@ -1,5 +1,5 @@
 ---
-title:  "Kmnist Classification Project"
+title:  "Kmnist classification project"
 mathjax: true
 layout: post
 categories: media
